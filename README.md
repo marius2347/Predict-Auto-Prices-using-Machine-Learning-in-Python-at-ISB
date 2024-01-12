@@ -17,7 +17,7 @@
 <br>
 
 <h2>Dataset CSV</h2>
-<b> Link: http://isb.pub.ro/docs/auto.csv>
+<b> Link: http://isb.pub.ro/docs/auto.csv
 <br>
 
 <h2>Photo</h2>
