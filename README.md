@@ -1,4 +1,4 @@
-<h1> Machine Learning Used Auto Prices - Python Project</h1>
+<h1> Used Auto Prices - Python Project</h1>
 <br>
 <h2>Features</h2>
 <li>Import CSV file with code</li>
